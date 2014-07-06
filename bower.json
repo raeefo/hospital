@@ -14,23 +14,13 @@
 
         "angular": "1.2.18",
 
-        "angular-cookies": "1.2.18",
-
         "restangular": "1.4.0",
 
         "lodash": "2.4.1",
 
         "angular-ui-router": "0.2.8-bowratic-tedium",
 
-        "angular-ui-date": "0.0.3",
-
-        "Font-Awesome": "4.1.0",
-
-        "angular-translate": "2.2.0",
-
-        "angular-translate-storage-cookie": "2.2.0",
-        
-        "angular-translate-loader-static-files": "2.2.0"
+        "angular-ui-date": "0.0.3"
 
     }
     

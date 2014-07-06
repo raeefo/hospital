@@ -30,21 +30,11 @@ module.exports = {
 
             'vendor/angular/angular.min.js.map',
 
-            'vendor/angular-cookies/angular-cookies.min.js',
-
-            'vendor/angular-cookies/angular-cookies.min.js.map',
-
             'vendor/angular-ui-router/release/angular-ui-router.min.js',
 
             'vendor/restangular/dist/restangular.min.js',
 
             'vendor/angular-ui-date/src/date.js',
-
-            'vendor/angular-translate/angular-translate.min.js',
-            
-            'vendor/angular-translate-storage-cookie/angular-translate-storage-cookie.min.js',
-
-            'vendor/angular-translate-loader-static-files/angular-translate-loader-static-files.min.js'
 
         ],
 
@@ -56,9 +46,7 @@ module.exports = {
 
             'vendor/jquery-ui/themes/flick/jquery-ui.min.css',
 
-            'vendor/jquery-ui/themes/flick/jquery-ui.theme.css',
-
-            'vendor/Font-Awesome/css/font-awesome.min.css'
+            'vendor/jquery-ui/themes/flick/jquery-ui.theme.css'
 
         ],
 
@@ -70,9 +58,7 @@ module.exports = {
 
         fonts: [
 
-            'vendor/bootstrap/fonts/*',
-
-            'vendor/Font-Awesome/fonts/*'
+            'vendor/bootstrap/fonts/*'
 
         ]
 
