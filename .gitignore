@@ -5,7 +5,7 @@
 /vendor/*
 
 # sublime
-.sublime-*
+*.sublime-*
 
 # release
 /bin/*
